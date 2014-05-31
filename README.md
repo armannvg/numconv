@@ -50,19 +50,29 @@ If no destination system is specified then all conversions are printed out:
 **convert from int:** numconv.py -n 119 -s int
 
 binary: 1110111
+
 hex: 0x77
+
 int: 119
+
 ipv4: 0.0.0.119
+
 ipv6: ::77
+
 roman: CXIX
 
 **convert from hex:** numconv.py -n 0x3f -s hex
 
 binary: 111111
+
 hex: 0x3f
+
 int: 63
+
 ipv4: 0.0.0.63
+
 ipv6: ::3f
+
 roman: LXIII
 
 Additional information
