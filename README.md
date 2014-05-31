@@ -10,7 +10,10 @@ numconv is a small utility that converts numbers between different systems. The 
 * IPv4
 * IPv6
 
-A number has a specific source system and it can be converted to any destination system. For example
+A number has a specific source system and it can be converted to any destination system.
+
+Usage
+=======
 
 **convert from int to hex:** numconv.py --num 87 --source_system int --dest_system hex
 
@@ -62,6 +65,8 @@ ipv4: 0.0.0.63
 ipv6: ::3f
 roman: LXIII
 
+Additional information
+=======
 
 This program requires Python 3.3 or above
 
