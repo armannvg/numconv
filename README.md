@@ -82,4 +82,4 @@ This program requires Python 3.3 or above
 
 Unit tests all can be executed with "python33 -m unittest discover" from the source code directory. This should find all the test files (i.e. test*) and execute them.
 
-License: The MIT License, see more at http://opensource.org/licenses/MIT. It should also be noted that the roman numeral conversion is taken from the Dive Into Python 3 book (http://www.diveintopython3.net/), which publishes its code under the Creative Commons Attribution Share-Alike license (http://creativecommons.org/licenses/by-sa/3.0/)
+License: Creative Commons Attribution Share-Alike license (http://creativecommons.org/licenses/by-sa/3.0/)
